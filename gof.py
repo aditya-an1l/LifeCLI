@@ -1,3 +1,22 @@
+#!/usr/bin/env python3
+
+# ===============================================
+# Conway's Game of Life
+# -----------------------------------------------
+# Description   : Simulating the Conway's Game of Life
+# Author(s)     : aditya-an1l
+# Created       : 06/07/2025
+# Last Modified : 06/07/2025 15:49 (aditya-an1l)
+# Comment       : To run the script, execute the following
+#                 commands in your terminal
+#                 $ python3 gof.py
+#
+#                 Here are some hotkeys -
+#                 - "q" or "Esc" to quit the game
+#                 - Up/Down key to modify the cell cell
+#                 - Left/Right to modify simulation speed
+# ===============================================
+
 import curses
 import random
 import time
