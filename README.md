@@ -30,6 +30,8 @@
 
 A dynamic terminal-based implementation of **Conway's Game of Life**, written in Python.
 
+![preview](https://raw.githubusercontent.com/aditya-an1l/LifeCLI/main/media/preview.gif)
+
 ## 🧠 What is LifeCLI: A Conway's Game of Life Simulation
 
 Conway's Game of Life is a **zero-player game** that simulates cellular automata — a grid where cells live, die, or reproduce based on a few simple rules. The patterns evolve with time, often mimicking biological systems.
