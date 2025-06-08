@@ -8,22 +8,22 @@
 <div align="center"><p>
     </a>
     <a href="https://github.com/aditya-an1l/LifeCLI/pulse">
-      <img alt="Last commit" src="https://img.shields.io/github/last-commit/aditya-an1l/LifeCLI?style=for-the-badge&logo=git&color=2778e3&logoColor=2778e3&labelColor=000000"/>
+      <img alt="Last commit" src="https://img.shields.io/github/last-commit/aditya-an1l/LifeCLI?style=for-the-badge&logo=git&color=fceb79&logoColor=2778e3&labelColor=000000"/>
     </a>
     <a href="https://github.com/aditya-an1l/LifeCLI/blob/main/LICENSE">
       <img alt="License" src="https://img.shields.io/github/license/aditya-an1l/LifeCLI?style=for-the-badge&logo=apache&color=7c675f&logoColor=2778e3&labelColor=000000" />
     </a>
     <a href="https://github.com/aditya-an1l/LifeCLI/stargazers">
-      <img alt="Stars" src="https://img.shields.io/github/stars/aditya-an1l/LifeCLI?style=for-the-badge&logo=starship&color=ebeb46&logoColor=2778e3&labelColor=000000" />
+      <img alt="Stars" src="https://img.shields.io/github/stars/aditya-an1l/LifeCLI?style=for-the-badge&logo=starship&color=fceb79&logoColor=2778e3&labelColor=000000" />
     </a>
     <a href="https://github.com/aditya-an1l/LifeCLI/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/aditya-an1l/LifeCLI?style=for-the-badge&logo=gitbook&color=7c675f&logoColor=2778e3&labelColor=000000" />
     </a>
     <a href="https://github.com/aditya-an1l/LifeCLI">
-      <img alt="Repo Size" src="https://img.shields.io/github/repo-size/aditya-an1l/LifeCLI?color=ebeb46&label=SIZE&logo=files&style=for-the-badge&logoColor=2778e3&labelColor=000000" />
+      <img alt="Repo Size" src="https://img.shields.io/github/repo-size/aditya-an1l/LifeCLI?color=fceb79&label=SIZE&logo=files&style=for-the-badge&logoColor=2778e3&labelColor=000000" />
     </a>
     <a href="https://twitter.com/intent/follow?screen_name=aditya_an1l">
-      <img alt="follow on X" src="https://img.shields.io/twitter/follow/aditya_an1l?style=for-the-badge&logo=x&color=7c675f&logoColor=2778e3&labelColor=000000" />
+      <img alt="follow on X" src="https://img.shields.io/twitter/follow/aditya_an1l?style=for-the-badge&logo=x&color=ffffff&logoColor=2778e3&labelColor=000000" />
     </a>
 
 </div>
